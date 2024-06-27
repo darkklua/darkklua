@@ -3,6 +3,7 @@
     <img src="https://github.com/darkklua/darkklua/assets/142851535/fe54fa92-d358-42b7-9fd8-696484dec304"
          alt="Functional way is the right way"
          height="255px"
+         width="40%"
          style="margin-right: 100px; width: 100%;"
          align="left" />
   </div>
