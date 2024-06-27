@@ -16,7 +16,7 @@ public class Luana {
             "city", "São Paulo, SP, BR",
             "langs", Arrays.asList("Portuguese", "English"),
             "programming", Arrays.asList("Javascript", "Java"),
-            "web_technologies", Arrays.asList("HTML5", "CSS3", "Javascript")
+            "web_technologies", Arrays.asList("HTML5", "CSS3")
         );
     }
 }
