@@ -2,7 +2,7 @@
   <div>
     <img src="https://github.com/darkklua/darkklua/assets/142851535/166a5f0d-8807-432f-b08b-dfd5d3cced3e"
          alt="Functional way is the right way"
-         height="250px"
+         height="255px"
          style="margin-right: 100px; width: 100%;"
          align="left" />
   </div>
