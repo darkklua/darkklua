@@ -1,11 +1,14 @@
+<div style="display: flex; justify-content: space-around; align-items: flex-start; margin-top: 20px; margin-bottom: 20px;">
+  <div>
+    <img src="https://github.com/darkklua/darkklua/assets/142851535/166a5f0d-8807-432f-b08b-dfd5d3cced3e"
+         alt="Functional way is the right way"
+         height="250px"
+         style="margin-right: 100px; width: 100%;"
+         align="left" />
+  </div>
 
-<img src="https://github.com/darkklua/darkklua/assets/142851535/166a5f0d-8807-432f-b08b-dfd5d3cced3e"
-     alt="Functional way is the right way"
-     style="margin-top:20px;"
-     height="305px"
-     width="40%"
-     align="left" />
-
+<div style="width: 60%;">
+     
 ```java
 public class darkklua {
     public static Map<String, Object> getdarkklua() {
@@ -21,6 +24,9 @@ public class darkklua {
     }
 }
 ```
+
+</div>
+</div>
 
 <br/> <br/>
 
