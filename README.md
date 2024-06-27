@@ -3,6 +3,7 @@
      alt="Functional way is the right way"
      style="margin-top:20px;"
      height="305px"
+     width="40%"
      align="left" />
 
 ```java
