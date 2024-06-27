@@ -1,5 +1,5 @@
 
-<img src="https://github.com/darkklua/darkklua/assets/142851535/3275abe4-0df3-4588-be74-9fd180c7011b"
+<img src="https://github.com/darkklua/darkklua/assets/142851535/166a5f0d-8807-432f-b08b-dfd5d3cced3e"
      alt="Functional way is the right way"
      style="margin-top:20px;"
      height="305px"
@@ -7,8 +7,8 @@
      align="left" />
 
 ```java
-public class Luana {
-    public static Map<String, Object> getLuana() {
+public class darkklua {
+    public static Map<String, Object> getdarkklua() {
         return Map.of(
             "name", "Luana Rodrigues Leite",
             "age", 19,
