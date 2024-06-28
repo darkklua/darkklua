@@ -16,7 +16,7 @@ public class darkklua {
         return Map.of(
             "name", "Luana Rodrigues Leite",
             "age", 19,
-            "favorite food", "Watermelon",
+            "favorite fruit", "Watermelon",
             "work_place", "Vindi",
             "city", "São Paulo - SP",
             "langs", Arrays.asList("Portuguese", "English"),
